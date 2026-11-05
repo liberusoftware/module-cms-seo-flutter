@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-seo-flutter",
+  "capabilityKey": "liberusoftware/module-cms-seo",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_seo_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/seo.md",
+  "presentationPlan": "projects/cms/flutter/seo.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
